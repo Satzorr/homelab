@@ -13,9 +13,9 @@
 - Jellyfin - media
 - Pihole - Network Wide ad blocking
 - Windows/Linux VMs
+- WireGuard
 
 ## Planned
-- Wireguard or OpenVPN
 - Reverse Proxy Nginx/Traefik
 
 ## Goals
