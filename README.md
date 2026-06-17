@@ -17,6 +17,7 @@
 
 ## Planned
 - Reverse Proxy Nginx/Traefik
+- Odysseus with Deepseek v4 pro and flash api each 20M tokens
 
 ## Goals
 Learning sysadmin, networking and automation
