@@ -10,7 +10,6 @@
 - Proxmox 
 
 ## Running Services
-- Jellyfin - media
 - Pihole - Network Wide ad blocking
 - Windows/Linux VMs
 - WireGuard
