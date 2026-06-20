@@ -16,7 +16,7 @@
 
 ## Planned
 - Reverse Proxy Nginx/Traefik
-- Odysseus with Deepseek v4 pro and flash api each 20M tokens adding hermes agent 
+- Hermes Agent wih 6 subagents automation
 
 ## Goals
 Learning sysadmin, networking and automation
