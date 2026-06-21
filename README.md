@@ -16,7 +16,7 @@
 
 ## Planned
 - Reverse Proxy Nginx/Traefik
-- Hermes Agent wih 6 subagents automation
+- Hermes Agent wih 6 subagents automation with obsidian vault
 
 ## Goals
 Learning sysadmin, networking and automation
