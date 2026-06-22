@@ -3,7 +3,7 @@
 ## Hardware
 - Dell R620 
 - 2x Xeon E5-2660v2
-- 64GB 1600MT DDR3
+- 64GB DDR3
 - Nvidia Quadro P2000
 
 ## Hypervisor
