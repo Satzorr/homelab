@@ -13,10 +13,10 @@
 - Pihole - Network Wide ad blocking
 - Windows/Linux VMs
 - WireGuard
+- hermes with local qwen2.5-coder7b  and obsidian vault as brain
 
 ## Planned
 - Reverse Proxy Nginx/Traefik
-- Hermes Agent wih 6 subagents automation with obsidian vault
 
 ## Goals
 Learning sysadmin, networking and automation
