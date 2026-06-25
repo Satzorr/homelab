@@ -14,7 +14,7 @@
 - Windows/Linux VMs
 - WireGuard
 - hermes with local qwen2.5-coder7b  and obsidian vault as brain
-
+-testing with qwen2.5-coder32b
 ## Planned
 - Reverse Proxy Nginx/Traefik
 
