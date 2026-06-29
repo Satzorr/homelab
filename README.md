@@ -17,6 +17,8 @@
 -testing with qwen2.5-coder32b
 ## Planned
 - Reverse Proxy Nginx/Traefik
+- llmstudio or llamacpp
+  
 
 ## Goals
 Learning sysadmin, networking and automation
